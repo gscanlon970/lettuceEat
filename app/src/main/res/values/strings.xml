@@ -5,6 +5,9 @@
     <string name="value_any_city">Anywhere</string>
     <string name="value_any_price">Any price</string>
 
+    <string name="safetySteps">Masks required, social distance 6 feet apart, takeout only.</string>
+
+
     <string name="price_1">$</string>
     <string name="price_2">$$</string>
     <string name="price_3">$$$</string>

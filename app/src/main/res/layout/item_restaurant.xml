@@ -94,6 +94,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/restaurant_item_category"
         android:layout_alignLeft="@id/restaurant_item_rating"
-        android:text="Masks required, social distance 6 feet apart, takeout only." />
+        android:text="@string/safetySteps" />
 
 </RelativeLayout>

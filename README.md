@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Friendly Eats
 
 
@@ -19,6 +20,9 @@ https://github.com/firebase/quickstart-android
 
 [![Build Status](https://travis-ci.org/firebase/friendlyeats-android.svg?branch=master)](https://travis-ci.org/firebase/friendlyeats-android)
 "# lettuceeat" 
+=======
+# lettuce Eat
+>>>>>>> 7528d76ac41aeea87111a7d7f18c789f5c6795d7
 =======
 # lettuce Eat
 >>>>>>> 7528d76ac41aeea87111a7d7f18c789f5c6795d7
